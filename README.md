@@ -1,5 +1,7 @@
-Role Name
+DB role
 =========
+
+[![Build Status](https://travis-ci.com/rust118/db_role.svg?branch=master)](https://travis-ci.com/rust118/db_role)
 
 Install and configure mongodb-org
 
